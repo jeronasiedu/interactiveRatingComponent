@@ -46,6 +46,7 @@ button {
   border: none;
   cursor: pointer;
   font-family: inherit;
+  transition: 0.5s ease color, background-color 0.5s ease;
 }
 .options {
   display: flex;
@@ -63,6 +64,14 @@ button {
   background: hsl(213, 25%, 22%);
   color: var(--medium-gray);
 }
+.choice:hover {
+  background: var(--orange);
+  color: var(--white);
+}
+.choice.active {
+  background: var(--medium-gray);
+  color: var(--white);
+}
 .submit {
   margin-top: 0.5rem;
   padding: 0.5rem;
@@ -71,4 +80,8 @@ button {
   border-radius: 3rem;
   background: var(--orange);
   color: var(--white);
+}
+.submit:hover {
+  color: var(--orange);
+  background: var(--white);
 }
