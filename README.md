@@ -28,3 +28,6 @@
 # Screenshots
 
 ![desktop view](/screenshots/desktop.png)
+![desktop thank you view](/screenshots/desktop-fianal.png)
+![mobile view](/screenshots/mobile.png)
+![mobile thank you view](/screenshots/mobile-final.png)
