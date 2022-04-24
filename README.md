@@ -1,12 +1,5 @@
 # Front-end Style Guide
 
-## Layout
-
-The designs were created to the following widths:
-
-- Mobile: 375px
-- Desktop: 1440px
-
 ## Colors
 
 ### Primary
@@ -31,3 +24,7 @@ The designs were created to the following widths:
 
 - Family: [Overpass](https://fonts.google.com/specimen/Overpass)
 - Weights: 400, 700
+
+# Screenshots
+
+![desktop view](/screenshots/desktop.png)

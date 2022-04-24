@@ -93,6 +93,7 @@ button {
   flex-direction: column;
   align-items: center;
   gap: 1rem;
+  animation: fade 1s ease;
 }
 .thanks {
   width: 8rem;
@@ -109,4 +110,14 @@ button {
 }
 .rate ~ p {
   text-align: center;
+}
+@keyframes fade {
+  0% {
+    opacity: 0;
+    filter: blur(4px);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0px);
+  }
 }
