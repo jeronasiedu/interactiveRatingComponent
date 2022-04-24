@@ -27,7 +27,12 @@
 
 # Screenshots
 
+### Desktop view
+
 ![desktop view](/screenshots/desktop.png)
 ![desktop thank you view](/screenshots/desktop-final.png)
+
+### Mobile View
+
 ![mobile view](/screenshots/mobile.png)
 ![mobile thank you view](/screenshots/mobile-final.png)
